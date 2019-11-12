@@ -6,28 +6,12 @@ Created on Wed Oct 30 15:44:29 2019
 @author: FCRA
 """
 
-#
-#   
-#print filter_mult    #List of all Job Titles of people in NYC gov state
-#
-
-#REDAING SECOND DATASET
+#READING Nyc website analytics
 #list pages of services
 #see how many people go there
 #see analytics of people going there
 #see if same user accesses the pages? 
 #see user goes form one page to the other
-
-#
-#df = pd.read_csv('NYC.gov_Web_Analytics.csv', delimiter = ',')
-#serv_webpages = ["https://portal.311.nyc.gov/category/?id=311-121",     #Benefits & Support
-#                 "https://portal.311.nyc.gov/category/?id=311-4",       #Culture & Recreation
-#                 "https://portal.311.nyc.gov/category/?id=311-7",       #Environment
-#                 "https://portal.311.nyc.gov/category/?id=311-10",      #Health
-#                 "https://portal.311.nyc.gov/category/?id=311-13",      #Pets and WIldlife
-#                 "https://portal.311.nyc.gov/category/?id=311-16",      #Sidewalks, streets & highways
-#                 ]  #stupid to do it by hand
-
 
 
 def get_info():
