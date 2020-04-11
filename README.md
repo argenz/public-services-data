@@ -4,5 +4,7 @@ Trying to obtain a dataset with informaton about NYC governmental services and t
 Intended Procedure:
 1. Gather info about services provided and respective urls. /html_reader.py
 2. Gather info about analytics of the urls.                 /analytics_reader.py
-3. Compare most viewed urls to the services urls.           /...
+3. Compare most viewed urls to the services urls.           
+
+I got no match between the viewed urls and the services urls, so strategy was abandoned. 
 
