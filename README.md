@@ -10,5 +10,5 @@ Intended Procedure:
 4. Rank.
 
 I got no match between the urls in step (2) and the services urls in step (1). 
-The analytics open data was too broad, not speficied on a section on the website (eg. public services, I wish), only the top viewed urls were availbale. Apparently NYC Governmental services pages aren't the top viewed pages so strategy was abandoned. 
+The analytics open data was too broad, not speficied on a section on the website (eg. public services, I wish), only the top viewed urls were availbale. Apparently NYC governmental services pages aren't the top viewed pages so this strategy was abandoned. 
 
